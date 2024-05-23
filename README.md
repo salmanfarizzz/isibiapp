@@ -21,28 +21,21 @@
 
 <h2 id="tentang">📘 Tentang I-SIBI App</h2>
 
-Aplikasi ini berperan sebagai tempat koleksi buku dan membaca buku. Disini Terdapat banyak sekali fitur yang membantu mendigitalisasi koleksi buku di Perpustakaan Universitas Catur Insan Cendekia.
+I-SIBI merupakan aplikasi inovatif yang dikembangkan oleh Tim PKM-KI UCIC 2023, yang dirancang untuk memberikan dampak yang signifikan dalam meningkatkan aksesibilitas komunikasi bagi komunitas tuna rungu dan tuna wicara. Aplikasi canggih ini memanfaatkan teknologi canggih untuk mendeteksi dan menginterpretasikan bahasa isyarat, sehingga memudahkan pengguna untuk berkomunikasi dan memahami bahasa isyarat secara real-time.
 
 <p></p>
 
 <h2 id="fitur">✨ Fitur Tersedia</h2>
 
-- Autentikasi
-  - Daftar dan Login
-- Pencarian dan Peminjaman Buku
-  - Cari buku favoritmu
-  - Pinjam buku yang ingin miliki
-  - Pengembalian buku yang sudah dipinjam
-- Riwayat
-  - Riwayat buku yang sudah dipinjam
-  - Riwayat buku yang sudah dikembalikan
-- Koleksi Buku Berdasarkan Kategori
-- Baca buku
-  - Baca buku yang sudah dipinjam
-
+- Artikel Terkini Seputar Disabilitas
+- Kelas Belajar Bahasa Tuli
+- Deteksi Bahasa Isyarat
+  - Deteksi bahasa isyarat melalui kamera ke teks
+  - Deteksi bahasa isyarat melalui teks ke bahasa isyarat
 <p></p>
 
 <h2 id="fitur">👨‍💻 Team</h2>
+
 - Sahl (Ketua) - Backend Developer
 - Salman Fariz Aulia (Anggota) - UI/UX Designer
 - Ferdi Ananta Salman (Anggota) - Frontend Developer
@@ -55,4 +48,4 @@ Aplikasi ini berperan sebagai tempat koleksi buku dan membaca buku. Disini Terda
 
 ---
 
-*<p align="center">Made with ❤ by SALMAN FARIZ AULIA</p>*
+*<p align="center">Made with ❤ by Team PKM-KI UCIC 2023</p>*
